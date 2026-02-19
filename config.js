@@ -42,7 +42,7 @@ module.exports = {
 
   // Google Gemini AI API Key (for .ai / .gpt commands)
   // Get it FREE at: https://makersuite.google.com/app/apikey
-  GEMINI_API_KEY: 'YOUR_GEMINI_API_KEY_HERE',
+  GEMINI_API_KEY: 'AIzaSyBEP87ySx4Qw_Qu_s2U879rKxMbpoIFj_c',
 
   // Remove.bg API Key (for background removal - optional)
   // Get at: https://www.remove.bg/api
